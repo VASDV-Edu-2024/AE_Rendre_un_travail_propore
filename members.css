@@ -1,86 +1,68 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    margin: 0;
-    padding: 0;
 }
 
 .team-section {
     text-align: center;
-    padding: 50px 0;
-    background-color: #fff;
+    padding: 50px 20px;
 }
 
 .team-section h1 {
-    color: #f39c12;
-    font-size: 2.5em;
+    color: #f18a00;
     margin-bottom: 10px;
 }
 
 .team-section .description {
-    font-size: 1.2em;
-    color: #666;
+    color: #777;
     margin-bottom: 40px;
-    width: 80%;
-    margin: auto;
 }
 
-.team-section .team-members {
+.team-members {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     flex-wrap: wrap;
-    gap: 20px;
 }
 
-.team-section .team-members .member {
-    background-color: #fff;
-    border-radius: 50%;
-    overflow: hidden;
-    width: 200px;
+.member {
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    width: 250px;
+    margin: 10px;
+    padding: 20px;
     text-align: center;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s;
 }
 
-.team-section .team-members .member:hover {
-    transform: scale(1.05);
+.member img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
 }
 
-.team-section .team-members .member img {
-    width: 100%;
-    height: auto;
-}
-
-.team-section .team-members .member h2 {
-    font-size: 1.5em;
+.member h2 {
+    font-size: 24px;
     margin: 10px 0;
 }
 
-.team-section .team-members .member .role {
-    color: #f39c12;
-    font-weight: bold;
-}
-
-.team-section .team-members .member .bio {
-    font-size: 0.9em;
-    color: #555;
-    padding: 0 10px;
+.role {
+    color: #f18a00;
     margin-bottom: 10px;
 }
 
-.team-section .team-members .member .social-links {
-    display: flex;
-    justify-content: center;
-    gap: 10px;
-    margin-bottom: 10px;
-}
-
-.team-section .team-members .member .social-links a {
+.bio {
     color: #555;
-    font-size: 1.2em;
-    transition: color 0.3s;
+    font-size: 14px;
+    margin-bottom: 20px;
 }
 
-.team-section .team-members .member .social-links a:hover {
-    color: #f39c12;
+.social-links a {
+    color: #555;
+    margin: 0 5px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.social-links a:hover {
+    color: #f18a00;
 }
