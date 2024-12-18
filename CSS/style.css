@@ -1,4 +1,4 @@
-/* Kelvya */
+/* Kelvya*/
 *{
     margin: 0;
     padding: 0;
@@ -42,7 +42,7 @@ nav ul li a:hover{
 }
 
  header{
-    background-color: rgb(55, 55, 250);
+    background-color: rgb(33, 150, 243);
     align-items: center;
     display: flex;
  }
@@ -96,7 +96,7 @@ button:hover{
     background: #0056;
 }
  footer{
-    background-color: rgb(55, 55, 250);
+    background-color: rgb(33, 150, 243);
     text-align: center;
     color: white;
     height: 150px;
