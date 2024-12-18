@@ -17,7 +17,7 @@ C'est un projet de groupe qui vise un faire un site web qui à pour objet d'expl
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Noir | ![#000000](https://via.placeholder.com/10/000000?text=+) #0a192f |
-| Blanc | ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) #f8f8f8 |
-| Bleu | ![#2196f3](https://via.placeholder.com/10/2196f3?text=+) #00b48a |
+| Noir | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000 |
+| Blanc | ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) #ffffff |
+| Bleu | ![#2196f3](https://via.placeholder.com/10/2196f3?text=+) #2196f3 |
 
