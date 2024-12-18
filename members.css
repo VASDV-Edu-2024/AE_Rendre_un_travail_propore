@@ -8,7 +8,7 @@ body {
 }
 
 .team-section h1 {
-    color: #f18a00;
+    color: rgb(33, 150, 243);
     margin-bottom: 10px;
 }
 
@@ -46,7 +46,7 @@ body {
 }
 
 .role {
-    color: #f18a00;
+    color: rgb(33, 150, 243);
     margin-bottom: 10px;
 }
 
@@ -64,5 +64,5 @@ body {
 }
 
 .social-links a:hover {
-    color: #f18a00;
+    color: rgb(33, 150, 243);
 }
