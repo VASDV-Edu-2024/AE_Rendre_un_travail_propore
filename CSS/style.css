@@ -1,4 +1,4 @@
-/* Kelvya */
+/* Kelvya contacts */
 *{
     margin: 0;
     padding: 0;
@@ -113,7 +113,9 @@ button:hover{
 
  }
 
- /* Henri */
+ /* FIN Kelvya contacts */
+
+ /* Henri Membres */
  .team-section {
     text-align: center;
     padding: 50px 20px;
@@ -178,4 +180,9 @@ button:hover{
 .social-links a:hover {
     color: rgb(33, 150, 243);
 }
+
+/* FIN Henri membres */
+
+/* Kelvya projects */
+
 
