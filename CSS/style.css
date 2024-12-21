@@ -184,3 +184,91 @@ button:hover{
 /* FIN Henri membres */
 
 /* Kelvya projects */
+
+.projects{
+
+    width: 100%;
+    max-width: 1200px;
+    margin-top: 40px ;
+    margin-left: 200px;
+    margin-right: 100rem;
+    padding-top: 250px;
+    padding-bottom: 150px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: rgba(235, 222, 222, 0.425);
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+}
+
+.pdescription{
+    margin-bottom: 30px;
+    position: absolute;
+    top: 100px;
+    text-align: center;
+    width: 70%;
+
+ }
+    
+ .pdescription h1 {
+    color: rgb(33, 150, 243);
+    margin-bottom: 10px;
+ }
+
+ .pdescription p {
+    font-size: 1rem;
+ }
+
+ .pprécision{
+    margin-bottom: 30px;
+    position: absolute;
+    text-align: center;
+    width: 70%;
+    top: 230px;
+ }
+
+ .pprécision h1 {
+    color: rgb(33, 150, 243);
+    font-size: 1.5rem;
+ }
+
+ .pprécision p {
+    margin-top: 10px;
+    font-size: 1rem;
+ }
+
+ .Projets {
+    width: 3000px;
+    overflow: hidden;
+    margin: 10px;
+    padding-top: 100px;
+    text-align: center;
+    border: rgb(33, 150, 243) solid 3px;
+
+
+
+ }
+
+ .Projets h2 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+ }
+
+ .Projets img {
+    width: 100%;
+    max-width: 300px;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 1x rgba(0, 0, 0, 0.2);
+    margin-bottom: 2rem;
+    
+ }
+
+ .Projets p {
+    font-size: 0.9rem;
+    margin-top: 10px;
+    color: black;
+}
